@@ -1,8 +1,7 @@
-# Learning Phase (Used networkchuck python course on youtube: Episodes 1–10)
 This repo documents my first nine days of learning Python hands-on, while mapping
 how code structure mirrors system design.  
 Each episode includes the code practice, notes, and reflection that built the base
-for my future learning and building with code as a meduim.
+for my future learning and building with code as a meduim.(Used networkchuck python course on youtube: Episodes 1–10)
 
 ---
 
