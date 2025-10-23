@@ -16,10 +16,10 @@ for my future learning and building with code as a meduim.
 ## 📚 Structure
 | Folder | Description |
 |---------|--------------|
-| `sandbox/` | All 10 episode code files (Ep01–Ep10). Each one is a self-contained practice round. |
-| `docs/reflections/` | Reflections per episode — thoughts, struggles, and lessons. |
-| `docs/nine_days_in.md` | The essay closing the first arc. |
-| `docs/final_reflection.md` | The full 10-episode summary. |
+| sandbox/ | All 10 episode code files (Ep01–Ep10). Each one is a self-contained practice round. |
+| Reflections/ thoughts, struggles, and lessonsper episode |
+| docs/ | The essay closing the first arc and The full 10-episode summary. |
+
 
 ---
 
