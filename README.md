@@ -14,11 +14,9 @@ for my future learning and building with code as a meduim.
 ---
 
 ## 📚 Structure
-| Folder | Description |
-|---------|--------------|
-| sandbox/ | All 10 episode code files (Ep01–Ep10). Each one is a self-contained practice round. |
-| Reflections/ thoughts, struggles, and lessonsper episode |
-| docs/ | The essay closing the first arc and The full 10-episode summary. |
+ sandbox/  All 10 episode code files (Ep01–Ep10). Each one is a self-contained practice round. 
+ Reflections/ thoughts, struggles, and lessonsper episode 
+ docs/  The essay closing the first arc and The full 10-episode summary. 
 
 
 ---
