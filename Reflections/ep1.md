@@ -11,10 +11,7 @@
 - Adding \n created spacing; *3 repeated text automatically  
 
 **Friction or Confusion:**  
-[i seen that its as confusioning as i thought, when it comes to operation, saving file and reading format it feels a lot more fluent comnpare to the
-last time i opened vscode]
-
-also i want to save this system to hold the past friction of error
+This was my first time opening VS Code since I downloaded it about two weeks ago. At first, it was just as confusing as I expected—but that didn’t last long. Once I got into basic operations like saving files and reading formats, everything felt much more fluent compared to my initial experience.
 
 **Connection to my 700-Batch System:**  
 - Each print() = one output node or reflection line  
