@@ -12,14 +12,11 @@ for my future learning and building with code as a meduim.(Used networkchuck pyt
 
 ---
 
-## 📚 Structure
- sandbox/  All 10 episode code files (Ep01–Ep10). Each one is a self-contained practice round. 
- 
- 
- Reflections/ thoughts, struggles, and lessonsper episode 
+### 📂 Contents
 
- 
- docs/  The essay closing the first arc and The full 10-episode summary. 
+- `sandbox/` → 10 hands-on Python practice files (Ep01–Ep10)
+- `reflections/` → Learning notes and insights per episode
+- `docs/` → Final essays and full 10-episode summary
 
 
 ---
